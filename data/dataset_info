@@ -2,4 +2,4 @@ The dataset can be downloaded at the following link
 
 https://www.kaggle.com/rounakbanik/the-movies-dataset?select=keywords.csv
 
-The files mentioned as small are not part of the analysis
+The files mentioned as small are not part of the analysis.Please save under path data/movielens/
