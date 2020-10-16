@@ -1,1 +1,8 @@
+numpy==1.18.5
+pandas==1.1.1
+pathlib2==2.3.5
+plotly==4.6.0
+seaborn==0.11.0
+wordcloud==1.6.0
+matplotlib==3.2.1
 
